@@ -1,0 +1,4 @@
+.generations {
+    display: flex;
+    flex-direction: row;
+}

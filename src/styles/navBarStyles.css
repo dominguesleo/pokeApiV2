@@ -1,0 +1,11 @@
+a {
+    text-decoration: none;
+}
+
+.navBar {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0 20px;
+    margin: 20px 0px 20px 3px;
+}
